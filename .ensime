@@ -1,0 +1,1 @@
+(:root-dir "d:/Dropbox/Scratchpad/Scala" :sources ("d:/Dropbox/Scratchpad/Scala") :target "d:/Dropbox/Scratchpad/Scala" :compiler-args ("-language:experimental.macros"))
