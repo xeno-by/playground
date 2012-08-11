@@ -1,1 +1,8 @@
-(:root-dir "d:/Dropbox/Scratchpad/Scala" :sources ("d:/Dropbox/Scratchpad/Scala") :target "d:/Dropbox/Scratchpad/Scala" :compiler-args ("-language:experimental.macros"))
+(
+  :disable-source-load-on-startup t
+  :root-dir "d:/Dropbox/Scratchpad/Scala"
+  :sources ("d:/Dropbox/Scratchpad/Scala")
+  :compile-deps ("d:/Dropbox/Scratchpad/Scala")
+  :compiler-args ("-language:experimental.macros")
+  :target "d:/Dropbox/Scratchpad/Scala"
+)
